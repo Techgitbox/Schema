@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@graph": {
+    "@type": "Person",
+    "Name": "Mac Ngu",
+    "alternateName": "Nguyen Kha Nhut",
+    "description": "Thích kết nối với mọi người, học hỏi và tích lũy kiến thức, kinh nghiệm để phát triển bản thân.",
+    "@id": "https://www.techgitbox.com/#NguyenKhaNhut",
+    "jobTitle": "CEO & Foundres",
+    "url": "https://www.techgitbox.com",
+    "Language": "Vi",
+    "worksFor": "Tổ Chức Phi Lợi Nhuận - TechGitbox",
+    "nationality": "Vietnam",
+    "image": "https://www.techgitbox.com/wp-content/uploads/2023/12/Nguyen-Kha-Nhut-scaled.jpg",
+    "email": "mailto:admin@techgitbox.com",
+    "birthPlace": "Vietnamese",
+    "workLocation": "https://www.google.com/maps/place/TechGitbox,+S%E1%BB+16%2F922,+%C4%E1%BB%8Bnh+M%C3%B4n,+Th%E1%BB%9Bi+Lai,+C%E1%BA%A7n+Th%C6%A1+94707/data=!4m2!3m1!1s0x2048422f602426bd:0xd4129ca12a83cc4d?utm_source=mstt_1&entry=gps&lucs=47068615,,47082943&g_ep=CAESCjExLjEwNS4xMDQYACDXggMqEjQ3MDY4NjE1LCw0NzA4Mjk0M0ICVk4%3D",
+    "birthDate": "1998-10-12",
+    "colleague": "https://www.techgitbox.com/#MetaCenlly",
+    "AlumniOf" : [ "Trường THCS & THPT Thới Thạnh",],
+"address": {
+  "@type": "PostalAddress",
+    "addressLocality": "Can Tho",
+    "addressRegion": "vietnam"
+	 },
+    "sameAs": [
+      "https://www.facebook.com/NguyenKhaNt",
+      "https://www.youtube.com/@Techgitbox",
+      "https://gravatar.com/nguyenkhant",
+      "https://www.pinterest.com/@NguyenKhaNt"
+      "https://scholar.google.com/citations?hl=vi&user=HjNxIsMAAAAJ",
+      "https://sites.google.com/view/nguyenkhanhut",
+      "https://www.instagram.com/nguyenkhant"
+    ]
+  }
+}
