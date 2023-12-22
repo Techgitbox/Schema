@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@graph": {
+    "@type": "Organization",
+    "@id": "https://www.techgitbox.com/#Organization",
+    "name": "TechGitbox",
+    "alternateName": "Tổ Chức Phi Lợi Nhuận - TechGitbox",
+    "url": "https://www.techgitbox.com",
+    "legalName": "Tổ Chức Phi Lợi Nhuận - TechGitbox",
+    "slogan": "Always believe in your dreams and join us!",
+    "description": "Giới thiệu",
+    "logo": "https://copyinoex.com/wp-content/uploads/2",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Số 16/922, Định Môn, Thới Lai, Cần Thơ, 94707",
+        "addressLocality": "Thới Lai",
+        "addressRegion": "Cần Thơ",
+        "addressCountry": "VN",
+        "postalCode": "94707"
+      },
+      "url": "https://www.google.com/maps/place/TechGitbox,+S%E1%BB+16%2F922,+%C4%E1%BB%8Bnh+M%C3%B4n,+Th%E1%BB%9Bi+Lai,+C%E1%BA%A7n+Th%C6%A1+94707/data=!4m2!3m1!1s0x2048422f602426bd:0xd4129ca12a83cc4d?utm_source=mstt_1&entry=gps&lucs=47068615,,47082943&g_ep=CAESCjExLjEwNS4xMDQYACDXggMqEjQ3MDY4NjE1LCw0NzA4Mjk0M0ICVk4%3D"
+    },
+    "founder": {
+      "name": "Nguyễn Kha Nhựt",
+      "@id": "https://www.techgitbox.com/#NguyenKhaNhut",
+      "jobTitle": "CEO & Foundress"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+84-32-8815-716",
+      "email": "mailto:contact@techgitbox.com"
+    },
+    "numberOfEmployees": {
+      "@type": "QuantitativeValue",
+      "minValue": "1",
+      "maxValue": "10"
+    },
+    "foundingDate": "2023-11-20",
+    "potentialAction": {
+      "@type": "ReserveAction",
+      "target": {
+        "@type": "EntryPoint",
+        "inLanguage": "Vietnamese",
+        "urlTemplate": "https://text.techgitbox.com/lien-he/",
+        "actionPlatform": [
+          "http://schema.org/DesktopWebPlatform",
+          "http://schema.org/IOSPlatform",
+          "http://schema.org/AndroidPlatform"
+        ]
+      },
+      "result": {
+        "@type": "Reservation",
+        "name": "Liên Hệ"
+      }
+    },
+    "publishingPrinciples": "https://www.techgitbox.com/tieu-chuan-cong-dong/",
+    "ethicsPolicy": "https://www.techgitbox.com/chinh-sach-bao-mat/",
+    "knowsLanguage": "Vietnamese",
+    "sameAs": [
+      "https://www.youtube.com/@Techgitbox",
+      "https://www.pinterest.com/Techgitbox",
+      "https://www.facebook.com/TechGitbox",
+      "https://about.me/techgitbox",
+      "https://github.com/Techgitbox",
+      "https://scholar.google.com/citations?user=ow6Z5hAAAAAJ&hl=vi&authuser=4",
+      "https://www.buymeacoffee.com/Techgitbox",
+      "https://orcid.org/0009-0000-9212-7647",
+      "https://techgitbox.wordpress.com/",
+      "https://sites.google.com/view/techgit-box/"
+    ]
+  }
+}
