@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@graph": {
+    "@type": "Person",
+    "Name": "Meta Cenlly",
+    "alternateName": "Nguyen Xuan Nguyet",
+    "description": "Nơi dành cho những người yêu thích giao lưu, đam mê công nghệ và mong muốn chia sẻ kinh nghiệm.",
+    "@id": "https://www.techgitbox.com/#MetaCenlly",
+    "jobTitle": "Author & Editor",
+    "Language": "Vi",
+    "birthDate": "2003-05-19",
+    "worksFor": "Tổ Chức Phi Lợi Nhuận - TechGitbox",
+    "nationality": "Vietnam",
+    "email": "mailto:metacenlly@techgitbox.com",
+    "birthPlace": "Vietnamese",
+    "workLocation": "https://www.google.com/maps/place/TechGitbox,+S%E1%BB+16%2F922,+%C4%E1%BB%8Bnh+M%C3%B4n,+Th%E1%BB%9Bi+Lai,+C%E1%BA%A7n+Th%C6%A1+94707/data=!4m2!3m1!1s0x2048422f602426bd:0xd4129ca12a83cc4d?utm_source=mstt_1&entry=gps&lucs=47068615,,47082943&g_ep=CAESCjExLjEwNS4xMDQYACDXggMqEjQ3MDY4NjE1LCw0NzA4Mjk0M0ICVk4%3D",
+    "colleague": "https://www.techgitbox.com/#NguyenKhaNhut",
+    "image": "https://www.techgitbox.com/wp-content/uploads/2023/12/Meta-Cenlly-1.jpg",
+    "AlumniOf" : [ "Trường THCS & THPT Thới Thạnh", "Trường THPT Thới Lai" ],
+"address": {
+  "@type": "PostalAddress",
+    "addressLocality": "Can Tho",
+    "addressRegion": "vietnam"
+},
+    "sameAs": [
+      "https://www.pinterest.com/@MetaCenlly",
+      "https://www.pinterest.com/",
+      "metacenlly.blogspot.com",
+      "https://t.me/+j4bMisNGa1swOGY9",
+      "https://www.instagram.com/metacenlly"
+    ]
+  }
+}
