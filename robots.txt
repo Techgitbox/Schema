@@ -1,0 +1,32 @@
+#all bot
+User-agent:*
+Disallow: /wp-admin/
+Disallow: /wp-login.php*
+Disallow: /Customize.php*
+Disallow: /?s=
+Disallow: /p=*
+Disallow: /?p=*
+Disallow: /wp-json/
+Disallow: /xmlrpc.php*|
+Disallow: /comment.php*
+Disallow: /wp-includes/
+Disallow: /plugins/
+Disallow: /themes/
+Allow: /Uploads/
+Allow: /wp-admin/admin-ajax.php
+
+# Googlebot
+User-agent: Googlebot
+Disallow: /feed/
+Disallow: /feed$
+Disallow: /comments/
+Disallow: /?add-to-cart=
+Disallow: /?add_to_wishlist=
+
+# Googlebot-News
+User-agent: Googlebot-News
+Allow: /feed
+Allow: /feed/
+
+# Sitemap
+Sitemap: https://www.techgitbox.com/sitemap_index.xml
