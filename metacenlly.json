@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@graph": {
     "@type": "Person",
-    "Name": "Meta Cenlly",
-    "alternateName": "Nguyen Xuan Nguyet",
+    "Name": "Con Sen Công Nghệ",
+    "alternateName": "Nguyễn Kha Nhựt",
     "description": "Nơi dành cho những người yêu thích giao lưu, đam mê công nghệ và mong muốn chia sẻ kinh nghiệm.",
     "@id": "https://www.techgitbox.com/#MetaCenlly",
     "jobTitle": "Author & Editor",
