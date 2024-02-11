@@ -2,14 +2,14 @@
   "@context": "https://schema.org",
   "@graph": {
     "@type": "Organization",
-    "@id": "https://www.techgitbox.com/#Organization",
-    "name": "TechGitbox",
-    "alternateName": "Tổ Chức Phi Lợi Nhuận - TechGitbox",
-    "url": "https://www.techgitbox.com",
-    "legalName": "Tổ Chức Phi Lợi Nhuận - TechGitbox",
-    "slogan": "Always believe in your dreams and join us!",
-    "description": "Giới thiệu",
-    "logo": "https://copyinoex.com/wp-content/uploads/2",
+    "@id": "https://text.techgitbox.com/#Organization",
+    "name": "Techgitbox",
+    "legalName": "Century Data Archive Nonprofit - CDAN",
+    "url": "https://text.techgitbox.com",
+    "slogan": "Techgitbox - Lưu trữ, chia sẻ và kết nối cộng đồng thông qua dữ liệu!",
+    "description": "Chào mừng bạn đến với Techgitbox, một nền tảng độc đáo và đầy sức sáng tạo dành cho việc lưu trữ, chia sẻ và khám phá dữ liệu. Với tư duy phi lợi nhuận, chúng tôi tạo ra một không gian kết nối cho người dùng và cộng đồng, tạo điều kiện để bạn có thể tìm kiếm và truy cập thông tin chi tiết, tài liệu quan trọng và cùng nhau phát triển.",
+    "logo": "https://text.techgitbox.com/wp-content/uploads/2024/01/Century-Data-Archive-Nonprofit-CDAN.png",
+    "image": "https://text.techgitbox.com/wp-content/uploads/2024/01/Logo-techgitbox-chu-den.png",
     "location": {
       "@type": "Place",
       "address": {
@@ -17,19 +17,19 @@
         "streetAddress": "Số 16/922, Định Môn, Thới Lai, Cần Thơ, 94707",
         "addressLocality": "Thới Lai",
         "addressRegion": "Cần Thơ",
-        "addressCountry": "VN",
+        "addressCountry": "Vietnam",
         "postalCode": "94707"
       },
-      "url": "https://www.google.com/maps/place/TechGitbox,+S%E1%BB+16%2F922,+%C4%E1%BB%8Bnh+M%C3%B4n,+Th%E1%BB%9Bi+Lai,+C%E1%BA%A7n+Th%C6%A1+94707/data=!4m2!3m1!1s0x2048422f602426bd:0xd4129ca12a83cc4d?utm_source=mstt_1&entry=gps&lucs=47068615,,47082943&g_ep=CAESCjExLjEwNS4xMDQYACDXggMqEjQ3MDY4NjE1LCw0NzA4Mjk0M0ICVk4%3D"
+      "url": "https://www.google.com/maps/place/TechGitbox,+S%E1%BB+16%2F922,+%C4%E1%BB%8Bnh+M%C3%B4n,+Th%E1%BB%9Bi+Lai,+C%E1%BA%A7n+Th%C6%A1+94707/data=!4m2!3m1!1s0x2048422f602426bd:0xd4129ca12a83cc4d?utm_source=mstt_1&amp;entry=gps&amp;lucs=47068615,,47082943&amp;g_ep=CAESCjExLjEwNS4xMDQYACDXggMqEjQ3MDY4NjE1LCw0NzA4Mjk0M0ICVk4%3D"
     },
     "founder": {
       "name": "Nguyễn Kha Nhựt",
-      "@id": "https://www.techgitbox.com/#NguyenKhaNhut",
-      "jobTitle": "CEO & Foundress"
+      "@id": "https://text.techgitbox.com/#NguyenKhaNhut",
+      "jobTitle": "CEO &amp; Foundress"
     },
     "contactPoint": {
       "@type": "ContactPoint",
-      "telephone": "+84-32-8815-716",
+      "telephone": "Tel:84328815716",
       "email": "mailto:contact@techgitbox.com"
     },
     "numberOfEmployees": {
@@ -46,8 +46,8 @@
         "urlTemplate": "https://text.techgitbox.com/lien-he/",
         "actionPlatform": [
           "http://schema.org/DesktopWebPlatform",
-          "http://schema.org/IOSPlatform",
-          "http://schema.org/AndroidPlatform"
+          "https://vi.m.wikipedia.org/wiki/T%E1%BB_ch%E1%BB%A9c_phi_ch%C3%ADnh_ph%E1%BB%A7",
+          "https://en.m.wikipedia.org/wiki/Organization"
         ]
       },
       "result": {
@@ -55,20 +55,24 @@
         "name": "Liên Hệ"
       }
     },
-    "publishingPrinciples": "https://www.techgitbox.com/tieu-chuan-cong-dong/",
-    "ethicsPolicy": "https://www.techgitbox.com/chinh-sach-bao-mat/",
+    "publishingPrinciples": "https://text.techgitbox.com/chinh-sach/nguyen-tac-cong-dong/",
+    "ethicsPolicy": "https://text.techgitbox.com/chinh-sach-bao-mat/",
     "knowsLanguage": "Vietnamese",
     "sameAs": [
       "https://www.youtube.com/@Techgitbox",
-      "https://www.pinterest.com/Techgitbox",
       "https://www.facebook.com/TechGitbox",
-      "https://about.me/techgitbox",
       "https://github.com/Techgitbox",
-      "https://scholar.google.com/citations?user=ow6Z5hAAAAAJ&hl=vi&authuser=4",
-      "https://www.buymeacoffee.com/Techgitbox",
-      "https://orcid.org/0009-0000-9212-7647",
-      "https://techgitbox.wordpress.com/",
-      "https://sites.google.com/view/techgit-box/"
+      "http://www.pinterest.com/TechGitbox",
+      "https://www.linkedin.com/in/techgitbox",
+      "http://about.me/techgitbox"
+    ],
+    "employee": [
+      "https://sites.google.com/view/metacenlly/"
+    ],
+    "alternateName": [
+      "CDAN",
+      "Century Data Archive Nonprofit",
+      "Tổ Chức Phi Lợi Nhuận - Techgitbox"
     ]
   }
 }
